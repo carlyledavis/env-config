@@ -1,0 +1,18 @@
+{
+  "name": "config",
+  "version": "0.0.0",
+  "description": "Configuration Installation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "environment",
+    "testing"
+  ],
+  "author": "Carlyle Davis",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.8.5"
+  }
+}
